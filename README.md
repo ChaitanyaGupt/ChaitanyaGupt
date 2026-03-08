@@ -31,12 +31,5 @@ Java Developer and SDET Intern at Netradyne with experience in backend developme
 - Developed an **Online Visitor Management System** using Java, JSF, and Hibernate
 - Improved system performance through **SQL query optimization**
 
-## Projects
-**Smart Contact Manager**  
-Spring Boot application for secure contact management with authentication.
-
-**Plant Disease Prediction System**  
-Deep learning model for plant disease detection using TensorFlow and OpenCV.
-
 ## Connect
 LinkedIn: https://www.linkedin.com/in/chaitanyagupta7  
